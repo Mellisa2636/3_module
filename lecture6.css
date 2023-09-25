@@ -1,0 +1,21 @@
+body {
+    background: #FBCEB1;
+}
+  
+.par1 {
+    background: #FDD9B5;
+    font-size: 24pt;
+    padding-top: 60px;
+}
+  
+.par2 {
+    background: LightGreen;
+    color: DarkGreen;
+    font-size: 24pt;
+    box-shadow: 10px 5px 55px DarkGReen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    margin-top: 60px;
+    text-align: center;
+}
